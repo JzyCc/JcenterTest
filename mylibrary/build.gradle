@@ -38,9 +38,9 @@ dependencies {
 publish {
     userOrg = 'jzycc'
     groupId = 'com.jzycc'
-    artifactId = 'jcenter'
+    artifactId = 'jcentertest'
     publishVersion = '1.0.0'
     desc = 'only test'
-    website = 'https://github.com/JzyCc'
+    website = 'https://github.com/JzyCc/JcenterTest'
 }
 
